@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41a0fa51-3f16-4873-93b3-51e9b2d5438a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/snacks/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/snack_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/snack_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snack_tracker_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/snack_tracker_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snacks/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/snacks/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snacks/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/snacks/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snack_tracker_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snack_tracker_project/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snacks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snacks/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +24,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29cwdjsNHzoTRhXHwtDeYVvBD9o" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -92,7 +97,7 @@
       <workItem from="1653425773956" duration="775000" />
       <workItem from="1653427051385" duration="9000" />
       <workItem from="1653427079785" duration="36000" />
-      <workItem from="1653427160241" duration="2875000" />
+      <workItem from="1653427160241" duration="5429000" />
     </task>
     <servers />
   </component>
